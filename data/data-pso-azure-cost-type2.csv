@@ -1,0 +1,199 @@
+﻿No.,Product,Regsion,OS,Type,Tier,Category,Instance.Series,Series.Type,CPU.Type,CPU.Core,RAM (GB),Storage (GB),Cost (US)
+1,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B1S,2,1,1,4,0.0164
+2,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B2S,2,2,4,8,0.0576
+3,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B1LS,2,1,0.5,4,0.0062
+4,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B1MS,2,1,2,4,0.0288
+5,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B2MS,2,2,8,16,0.107
+6,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B4MS,2,4,16,32,0.214
+7,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B8MS,2,8,32,64,0.429
+8,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B12MS,2,12,48,96,0.643
+9,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B16MS,2,16,64,128,0.858
+10,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Bs-series,B20MS,2,20,80,160,1.072
+11,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A1 v2,2,1,2,10,0.065
+12,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A2 v2,2,2,4,20,0.136
+13,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A4 v2,2,4,8,40,0.286
+14,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A8 v2,2,8,16,80,0.6
+15,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A2m v2,2,2,16,20,0.225
+16,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A4m v2,2,4,32,40,0.45
+17,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Av2 Standard,A8m v2,2,8,64,80,0.9
+18,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D2a v4,2,2,8,50,0.204
+19,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D4a v4,2,4,16,100,0.408
+20,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D8a v4,2,8,32,200,0.816
+21,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D16a v4,2,16,64,400,1.632
+22,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D32a v4,2,32,128,800,3.264
+23,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D48a v4,2,48,192,1200,4.896
+24,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D64a v4,2,64,256,1600,6.528
+25,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Da v4-series,D96a v4,2,96,384,2400,9.792
+26,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D2as v4,2,2,8,16,0.204
+27,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D4as v4,2,4,16,32,0.408
+28,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D8as v4,2,8,32,64,0.816
+29,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D16as v4,2,16,64,128,1.632
+30,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D32as v4,2,32,128,256,3.264
+31,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D48as v4,2,48,192,384,4.896
+32,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D64as v4,2,64,256,512,6.528
+33,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Das v4-series,D96as v4,2,96,384,768,9.792
+34,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D2ds v4,2,2,8,75,0.225
+35,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D4ds v4,2,4,16,150,0.45
+36,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D8ds v4,2,8,32,300,0.9
+37,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D16ds v4,2,16,64,600,1.8
+38,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D32ds v4,2,32,128,1200,3.6
+39,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D48ds v4,2,48,192,1800,5.4
+40,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dds v4-series,D64ds v4,2,64,256,2400,7.2
+41,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D2d v4,2,2,8,75,0.225
+42,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D4d v4,2,4,16,150,0.45
+43,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D8d v4,2,8,32,300,0.9
+44,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D16d v5,2,16,64,600,1.8
+45,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D32d v5,2,32,128,1200,3.6
+46,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D48d v5,2,48,492,1800,5.4
+47,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dd v4-series,D64d v6,2,64,256,2400,7.2
+48,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv2-series,D1,2,1,3.5,50,1.26
+49,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv2-series,D2,2,2,7,100,0.252
+50,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv2-series,D3,2,4,14,200,0.504
+51,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv2-series,D4,2,8,28,400,1.008
+52,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv2-series,D5,2,16,56,800,2.016
+53,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv2-series,DS1,2,1,3.5,7,0.126
+54,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv2-series,DS2,2,2,7,14,0.252
+55,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv2-series,DS3,2,4,14,28,0.504
+56,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv2-series,DS4,2,8,28,56,1.008
+57,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv2-series,DS5,2,16,56,112,2.016
+58,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D2,2,2,8,50,0.209
+59,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D4,2,4,16,100,0.418
+60,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D8,2,8,32,200,0.836
+61,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D16,2,16,64,400,1.672
+62,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D32,2,32,128,800,3.344
+63,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D48,2,48,192,1200,5.016
+64,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv3-series,D64,2,64,256,1600,6.688
+65,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D2,2,2,8,0,0.204
+66,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D4,2,4,16,0,0.204
+67,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D8,2,8,32,0,0.816
+68,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D16,2,16,64,0,1.632
+69,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D32,2,32,128,0,3.264
+70,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D48,2,48,192,0,4.896
+71,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dv4-series,D64,2,64,256,0,6.528
+72,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D2s,2,2,8,16,0.209
+73,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D4s,2,4,16,32,0.418
+74,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D8s,2,8,32,64,0.836
+75,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D16s,2,16,64,128,1.672
+76,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D32s,2,32,128,256,3.344
+77,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D48s,2,48,192,384,5.016
+78,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv3-series,D64s,2,64,256,512,6.688
+79,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D2s,2,2,8,0,0.204
+80,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D4s,2,4,16,0,0.408
+81,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D8s,2,8,32,0,0.816
+82,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D16s,2,16,64,0,1.632
+83,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D32s,2,32,128,0,3.264
+84,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D48s,2,48,192,0,4.896
+85,Virtual Machine,West US,Windows,OS only,Standard,General purpose,Dsv4-series,D64s,2,64,256,0,6.528
+86,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F2s v2,2,2,4,16,0.198
+87,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F4s v2,2,4,8,32,0.396
+88,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F8s v2,2,8,16,64,0.792
+89,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F16s v2,2,16,32,128,1.584
+90,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F32s v2,2,32,64,256,3.168
+91,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F48s v2,2,48,96,384,4.754
+92,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F64s v2,2,64,128,512,6.336
+93,Virtual Machine,West US,Windows,OS only,Standard,Compute optimized,Fsv2-series,F72s v2,2,72,144,576,7.128
+94,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D11 v2,2,2,14,100,0.264
+95,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D12 v2,2,4,28,200,0.528
+96,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D13 v2,2,8,56,400,1.056
+97,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D14 v2,2,16,112,800,2.111
+98,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D15 v2,2,20,140,1000,2.639
+99,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dv2-series,D15i v2,2,20,140,1000,2.639
+100,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D11 v2,2,2,14,28,0.264
+101,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D12 v2,2,4,28,56,0.528
+102,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D13 v2,2,8,56,112,1.056
+103,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D14 v2,2,16,112,224,2.111
+104,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D15 v2,2,20,140,280,2.639
+105,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Dsv2-series,D15i v2,2,20,140,280,2.639
+106,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E2a v4,2,2,16,50,0.232
+107,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E4a v4,2,4,32,100,0.464
+108,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E8a v4,2,8,64,200,0.928
+109,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E16a v4,2,16,128,400,1.856
+110,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E20a v4,2,20,160,500,2.32
+111,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E32a v4,2,32,256,800,3.712
+112,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E48a v4,2,48,384,1200,5.568
+113,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E64a v4,2,64,432,1600,7.424
+114,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ea v4-series,E96a v4,2,96,672,2400,11.136
+115,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E2as v4,2,2,16,32,0.232
+116,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E4as v4,2,4,32,64,0.464
+117,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E8as v4,2,8,64,128,0.928
+118,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E16as v4,2,16,128,256,1.856
+119,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E20as v4,2,20,160,320,2.32
+120,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E32as v4,2,32,256,512,3.712
+121,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E48as v4,2,48,384,768,5.568
+122,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E64as v4,2,64,432,864,7.424
+123,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eas v4-series,E96as v4,2,96,672,1344,11.136
+124,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E2ds v4,2,2,16,75,0.254
+125,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E4ds v4,2,4,32,150,0.508
+126,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E8ds v4,2,8,64,300,1.016
+127,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E16ds v4,2,16,128,600,2.032
+128,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E20ds v4,2,20,160,750,2.54
+129,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E32ds v4,2,32,256,1200,4.064
+130,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E48ds v4,2,48,384,1800,6.096
+131,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E64ds v4,2,64,504,2400,8.128
+132,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Eds-series,E80ds v4,2,80,504,2400,10.16
+133,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E2d v4,2,2,16,75,0.254
+134,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E4d v4,2,4,32,150,0.508
+135,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E8d v4,2,8,64,300,1.016
+136,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E16d v4,2,16,128,600,2.032
+137,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E20d v4,2,20,160,750,2.54
+138,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E32d v4,2,32,256,1200,2.592
+139,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E48d v4,2,48,384,1800,6.096
+140,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ed v4-series,E64d v4,2,64,504,2400,8.128
+141,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E2 v3,2,2,16,50,0.24
+142,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E4 v3,2,4,32,100,0.48
+143,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E8 v3,2,8,64,200,0.928
+144,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E16 v3,2,16,128,800,1.856
+145,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E20 v3,2,20,160,500,2.4
+146,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E32 v3,2,32,256,800,3.712
+147,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E48 v3,2,48,384,1200,5.568
+148,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E64i v3,2,64,432,1600,6.976
+149,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev3-series,E64 v3,2,64,432,1600,6.976
+150,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E2 v4,2,2,16,0,0.232
+151,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E4 v4,2,4,32,0,0.464
+152,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E8 v4,2,8,64,0,0.928
+153,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E16 v4,2,16,128,0,1.856
+154,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E32 v4,2,32,256,0,3.712
+155,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E48 v4,2,48,384,0,5.568
+156,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Ev4-series,E64 v4,2,64,504,0,7.424
+157,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E2s v3,2,2,16,32,0.24
+158,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E4s v3,2,4,32,64,0.18
+159,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E8s v3,2,8,64,128,0.928
+160,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E16s v3,2,16,128,256,1.856
+161,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E20s v3,2,20,160,320,2.4
+162,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E32s v3,2,32,256,512,3.712
+163,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E48s v3,2,48,384,768,5.568
+164,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E64is v3,2,64,432,864,6.976
+165,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv3-series,E64s v3,2,64,432,864,6.976
+166,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E2s v4,2,2,16,0,0.232
+167,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E4s v4,2,4,32,0,0.464
+168,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E8s v4,2,8,64,0,0.928
+169,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E16s v4,2,16,128,0,1.856
+170,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E20s v4,2,20,160,0,2.32
+171,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E32s v4,2,32,256,0,3.712
+172,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E48s v4,2,48,384,0,5.568
+173,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E64 v4,2,64,504,0,7.424
+174,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,Esv4-series,E80is v4,2,80,504,2400,9.279
+175,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M64,2,64,1024,7168,11.614
+176,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M128,2,128,2048,14336,23.227
+177,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M32ls,2,32,256,1024,4.673
+178,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M64ls,2,64,512,2048,9.347
+179,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M64ms v2,2,64,1792,7168,20.291
+180,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M128m,2,128,3892,14336,40.582
+181,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M8-2ms,2,8,219,256,2.365
+182,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M8-4ms,2,8,219,256,2.365
+183,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M8ms,2,8,219,256,2.365
+184,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M16ms,2,16,438,512,4.731
+185,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M32-8ms,2,32,875,1024,9.462
+186,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M32-16ms,2,32,85,1024,9.462
+187,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M32ms,2,32,875,1024,9.462
+188,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M64MS,2,64,1792,2048,2.291
+189,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M128MS,2,128,3892,4096,40.582
+190,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M64s v2,2,64,1024,2048,11.614
+191,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M128s v2,2,128,2048,4096,23.227
+192,Virtual Machine,West US,Windows,OS only,Standard,Memory optimized,M-series,M32ts,2,32,192,1024,4.488
+193,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L8s v2,2,8,64,80,1.056
+194,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L16s v2,2,16,128,160,2.112
+195,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L32s v2,2,32,256,320,4.244
+196,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L48s v2,2,48,384,480,6.336
+197,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L64s v2,2,64,512,640,8.448
+198,Virtual Machine,West US,Windows,OS only,Standard,Storage optimized,Lsv2-series,L80s v2,2,80,640,800,10.56
